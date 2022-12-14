@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there 👋 My name is Agatha
+### 🔭 I’m currently working on a time management website which helps students track their progress and manage time effectively.
+### 🌱 I’m currently working with HTML, CSS & JavaScript
+### 😄 Pronouns: She/Her
 <!--
 **AgathaW/AgathaW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
