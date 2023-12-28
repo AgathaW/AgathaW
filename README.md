@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Agatha
-### 🔭 I’m currently working on a time management website which helps students track their progress and manage time effectively.
+### 🔭 I’m currently working on a time management website called WorkSmarter. 
 ### 🌱 I’m currently working with HTML, CSS & JavaScript
 ### 😄 Pronouns: She/Her
 <!--
